@@ -32,3 +32,5 @@ URL addresses are supported in the in_url parameter.
 
 # Surprise!
 Is isn't it ironic, that provided with our matrix, the longest possible string matched inside 'Romeo and Juliet' is [INAUSPICIOUS]?
+
+And for those interested in <em>Love's Labour's Lost</em>, the longest possible string is [ODOURIFEROUS]. ;)
