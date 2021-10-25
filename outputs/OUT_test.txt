@@ -1,0 +1,10 @@
+*** Knight is Touring from Square: 0,4:A ***
+*** Knight is Touring from Square: 1,7:S ***
+*** Knight is Touring from Square: 2,3:A ***
+*** Knight is Touring from Square: 3,1:F ***
+*** Knight is Touring from Square: 4,5:A ***
+*** Knight is Touring from Square: 5,1:S ***
+*** Knight is Touring from Square: 5,2:S ***
+*** Knight is Touring from Square: 5,5:A ***
+*** Knight is Touring from Square: 7,3:A ***
+*** The longest string in 'texts/test.txt' is: 'FORTRAN'. It occurs at Position: Y=3,X=1. Length is: 7.***
